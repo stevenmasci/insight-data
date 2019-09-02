@@ -1,3 +1,18 @@
-{
-  "Hello": "World"
-}
+[
+  {
+    "id": 1,
+    "name": "Simple Survey",
+    "url": "/survey_result_detail/1",
+    "participant_count": 6,
+    "response_rate": 0.8333333333333334,
+    "submitted_response_count": 5
+  },
+  {
+    "id": 2,
+    "name": "Acme Engagement Survey",
+    "url": "/survey_result_detail/2",
+    "participant_count": 271,
+    "response_rate": 1,
+    "submitted_response_count": 271
+  }
+]
