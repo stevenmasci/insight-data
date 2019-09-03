@@ -1,4 +1,5 @@
 {
+    "id": 2,
     "name": "Acme Engagement Survey",
     "url": "/survey_result_detail/2",
     "participant_count": 271,
@@ -6,9 +7,11 @@
     "submitted_response_count": 271,
     "themes": [
         {
+            "id": 1,
             "name": "Engagement",
             "questions": [
                 {
+                    "id": 1,
                     "description": "I would recommend ACME as a great place to work",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -1641,6 +1644,7 @@
                     ]
                 },
                 {
+                    "id": 2,
                     "description": "I see myself still working at ACME two years from now",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -3273,6 +3277,7 @@
                     ]
                 },
                 {
+                    "id": 3,
                     "description": "ACME motivates me to go above and beyond what I would in a similar role elsewhere",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -4905,6 +4910,7 @@
                     ]
                 },
                 {
+                    "id": 4,
                     "description": "I rarely think about looking for a job at another company",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -6537,6 +6543,7 @@
                     ]
                 },
                 {
+                    "id": 5,
                     "description": "This is an exciting time to be at ACME",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -8169,6 +8176,7 @@
                     ]
                 },
                 {
+                    "id": 6,
                     "description": "I am proud to work for ACME",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -9803,9 +9811,11 @@
             ]
         },
         {
+            "id": 2,
             "name": "My Manager",
             "questions": [
                 {
+                    "id": 7,
                     "description": "My manager does a good job of cascading information from the leadership level",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -11438,6 +11448,7 @@
                     ]
                 },
                 {
+                    "id": 8,
                     "description": "My manager does a good job of supporting the people who work for him/her",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -13070,6 +13081,7 @@
                     ]
                 },
                 {
+                    "id": 9,
                     "description": "My manager shows a genuine interest in my career at ACME",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -14702,6 +14714,7 @@
                     ]
                 },
                 {
+                    "id": 10,
                     "description": "My manager gives me useful feedback on how well I am performing",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -16334,6 +16347,7 @@
                     ]
                 },
                 {
+                    "id": 11,
                     "description": "My manager evaluates my work fairly",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -17968,9 +17982,11 @@
             ]
         },
         {
+            "id": 3,
             "name": "Top Drivers",
             "questions": [
                 {
+                    "id": 12,
                     "description": "The leadership team at ACME have communicated a vision that motivates me",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -19603,6 +19619,7 @@
                     ]
                 },
                 {
+                    "id": 13,
                     "description": "We pursue innovative ideas at ACME",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -21235,6 +21252,7 @@
                     ]
                 },
                 {
+                    "id": 14,
                     "description": "Our leaders demonstrate that people are important to ACME's success",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -22867,6 +22885,7 @@
                     ]
                 },
                 {
+                    "id": 15,
                     "description": "ACME is in a position to really succeed over the next three years",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -24499,6 +24518,7 @@
                     ]
                 },
                 {
+                    "id": 16,
                     "description": "ACME is a great company for me to make a contribution to my development",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -26131,6 +26151,7 @@
                     ]
                 },
                 {
+                    "id": 17,
                     "description": "I believe there are good career opportunities for me at ACME",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -27765,9 +27786,11 @@
             ]
         },
         {
+            "id": 4,
             "name": "Action",
             "questions": [
                 {
+                    "id": 18,
                     "description": "My manager, or someone else, has communicated some clear actions based on recent employee survey results",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -29400,6 +29423,7 @@
                     ]
                 },
                 {
+                    "id": 19,
                     "description": "I have seen positive changes taking place based on recent employee survey results",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -31034,9 +31058,11 @@
             ]
         },
         {
+            "id": 5,
             "name": "Survey",
             "questions": [
                 {
+                    "id": 20,
                     "description": "Survey Rating",
                     "question_type": "ratingquestion",
                     "survey_responses": [

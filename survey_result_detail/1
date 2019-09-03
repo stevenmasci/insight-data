@@ -1,4 +1,5 @@
 {
+    "id": 1,
     "name": "Simple Survey",
     "url": "/survey_result_detail/1",
     "participant_count": 6,
@@ -6,9 +7,11 @@
     "submitted_response_count": 5,
     "themes": [
         {
+            "id": 1,
             "name": "The Work",
             "questions": [
                 {
+                    "id": 1,
                     "description": "I like the kind of work I do.",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -51,6 +54,7 @@
                     ]
                 },
                 {
+                    "id": 2,
                     "description": "In general, I have the resources (e.g., business tools, information, facilities, IT or functional support) I need to be effective.",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -93,6 +97,7 @@
                     ]
                 },
                 {
+                    "id": 3,
                     "description": "We are working at the right pace to meet our goals.",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -137,9 +142,11 @@
             ]
         },
         {
+            "id": 2,
             "name": "The Place",
             "questions": [
                 {
+                    "id": 4,
                     "description": "I feel empowered to get the work done for which I am responsible.",
                     "question_type": "ratingquestion",
                     "survey_responses": [
@@ -182,6 +189,7 @@
                     ]
                 },
                 {
+                    "id": 5,
                     "description": "I am appropriately involved in decisions that affect my work.",
                     "question_type": "ratingquestion",
                     "survey_responses": [
